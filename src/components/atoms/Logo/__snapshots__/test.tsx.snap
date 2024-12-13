@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Logo /> should render the react logo 1`] = `
+<div
+  class="relative with-shadow"
+>
+  <div
+    class="atom"
+  >
+    <div
+      class="electron"
+    />
+    <div
+      class="electron second"
+    />
+    <div
+      class="electron third"
+    />
+  </div>
+</div>
+`;
